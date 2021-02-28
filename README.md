@@ -1,1 +1,59 @@
-### Greetings Programmers, I'm Melih - [firatmelih][firatmelih.github.io]
+### Greetings Programmers, I'm Melih [-> My Website <-][website]#
+
+Almost graduated from Computer Engineering.
+I am mostly interested in JavaScript and Javascript frameworks, libraries, tools. Also I enjoy so much learning and producting new applications with it. On these days (Since February 2021) I am very focused to make clone of every popular social media apps etc. Twitter, Facebook, Instagram. Had experiences on both sides Back - End & Front - End, so i feel like a Joker 🃏.
+
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmelih&layout=compact&hide=html" alt="firatmelih"/> 
+   
+![My Github Results](https://github-readme-stats.vercel.app/api?username=firatmelih&show_icons=true)
+
+  </p>
+<hr>
+
+# I'm interested in & using
+
+### Front - End
+
+<hr>
+
+<code><a  href="https://vuejs.org/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
+
+<code><a  href="https://reactjs.org/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+
+<code><a  href="https://sass-lang.com/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a></code>
+
+<hr>
+
+### Back - End
+
+<hr>
+
+<code><a  href="https://nodejs.org/en/docs/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+
+<code><a  href="https://expressjs.com/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
+
+<code><a  href="https://www.mongodb.com/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+
+<hr>
+
+### Less Using Currently | Have Experience Abouth
+
+<hr>
+
+<code><a  href="https://docs.microsoft.com/en-us/dotnet/core/introduction"  target="_blank"><img  height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></a></code>
+
+<code><a  href="https://www.postgresql.org/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+
+<code><a  href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15"  target="_blank"><img  height="50"   src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a></code>
+
+<code><a  href="https://git-scm.com/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+
+<code><a  href="https://ubuntu.com/"  target="_blank"><img  height="50"  src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
+
+<hr>
+
+## Contact Me 📫
+
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Firatmelih&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F)](https://www.linkedin.com/in/firatmelih/)
+
+[website]: https://firatmelih.github.io/
