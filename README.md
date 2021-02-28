@@ -5,7 +5,7 @@ I am mostly interested in JavaScript and Javascript frameworks, libraries, tools
 
    <p><img hspace="5" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmelih&layout=compact&hide=html" alt="firatmelih"/> 
      
-     <br/>
+     <br>
      
 ![My Github Results](https://github-readme-stats.vercel.app/api?username=firatmelih&show_icons=true)
 
