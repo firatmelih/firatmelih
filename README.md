@@ -29,7 +29,7 @@ I am mostly interested in JavaScript and Javascript frameworks, libraries, tools
 <hr>
 <p float="left">
 <a  href="https://nodejs.org/en/docs/"  target="_blank"><img hspace="25" height="50"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a>
-<a  href="https://expressjs.com/"  target="_blank"><img hspace="25" height="50"  src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a>
+<a  href="https://expressjs.com/"  target="_blank"><img hspace="25" height="50"  src="https://cdn.discordapp.com/attachments/750658674078253158/815450529336393739/express.png"></a>
 <a  href="https://www.mongodb.com/"  target="_blank"><img hspace="25" height="50"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
 </p>
 
