@@ -1,7 +1,6 @@
 ### Greetings Programmers, I'm Melih [-> My Website <-][website]
 
 
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmelih&layout=compact&hide=html" alt="firatmelih"/> 
 
  
 ![My Github Results](https://github-readme-stats.vercel.app/api?username=firatmelih&show_icons=true) 
