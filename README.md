@@ -3,7 +3,7 @@
 
 
  
-![My Github Results](https://github-readme-stats.vercel.app/api?username=firatmelih&show_icons=true&theme=dark&text_color=19add0&hide_border=true&bg_color=0d1117)
+![My Github Results](https://github-readme-stats.vercel.app/api?username=firatmelih&show_icons=true&theme=dark&text_color=47a6ff&hide_border=true&bg_color=0d1117&icon_color=fff)
 
 
  
