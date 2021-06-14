@@ -1,10 +1,9 @@
 
 
 
- ### Hello World!, I'm Melih [ My Website ][website]
+ ### [Hello World! 🌎, I'm Melih][website]
 
-  
-<hr>
+<br/>
 
 # Softwares & Libraries I am using are:
 
