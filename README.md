@@ -5,18 +5,15 @@
 
 ### Front - End
 
-<hr>
 <p  float="left">
  <!-- <a  href="https://vuejs.org/"  target="_blank"><img hspace="25" height="30"  src="https://cdn.discordapp.com/attachments/750658674078253158/815449924246175774/vuejs.png"></a>  -->
 <a  href="https://reactjs.org/"  target="_blank"><img hspace="25" height="50"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a> 
 <a  href="https://sass-lang.com/"  target="_blank"><img hspace="25" height="50"  src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a>
-</p>
-
-<hr>
+</p> 
 
 ### Back - End
 
-<hr>
+
 <p float="left">
  <!-- <a href="https://guides.rubyonrails.org/" target="_blank"> <img height="50"src="https://cdn.worldvectorlogo.com/logos/rails-1.svg"> </a> -->
 <a  href="https://nodejs.org/en/docs/"  target="_blank"><img hspace="25" height="50"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a>
