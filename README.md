@@ -1,11 +1,7 @@
 
 
 
- ### [Hello World! 🌎, I'm Melih][website]
-
-<br/>
-
-# Softwares & Libraries I am using are:
+ ### [Hello World! 🌎][website]
 
 ### Front - End
 
