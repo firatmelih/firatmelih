@@ -1,15 +1,15 @@
 <div>
-<h2>
+
 <a href="https://firatmelih.github.io/">Hello World! 🌎 </a>
-</h2>
-<h2> Front - End</h2>
+
+ Front - End
 
 <p  float="left">
 <a  href="https://reactjs.org/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a> 
 <a  href="https://sass-lang.com/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a>
 </p>
 
-<h2>Back - End</h2>
+Back - End
 
 <p float="left">
 <a  href="https://nodejs.org/en/docs/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a>
@@ -19,8 +19,7 @@
   </p>
 
 <hr>
-
-<h2>Contact Me </h2>
+Contact Me 
 </div>
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Firatmelih&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F)](https://www.linkedin.com/in/firatmelih/)
