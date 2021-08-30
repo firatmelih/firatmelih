@@ -18,10 +18,10 @@ Back - End
 </p>
   </p>
 
-<hr>
+<!-- <hr>
 Contact Me 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Firatmelih&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F)](https://www.linkedin.com/in/firatmelih/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Firatmelih&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F)](https://www.linkedin.com/in/firatmelih/) -->
 
 [website]: https://firatmelih.github.io/
