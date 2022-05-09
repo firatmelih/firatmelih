@@ -2,7 +2,7 @@
 
 <a href="https://firatmelih.github.io/">Hello World! 🌎 </a>
 
- Front - End
+ Frontend
 
 <p  float="left">
 <a  href="https://reactjs.org/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a> 
@@ -10,7 +10,7 @@
 <a  href="https://sass-lang.com/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a>
 </p>
 
-Back - End
+Backend
 
 <p float="left">
 <a  href="https://nodejs.org/en/docs/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a>
