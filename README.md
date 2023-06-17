@@ -1,28 +1,45 @@
-<div>
+Hi Everyone, I am Melih Here are techs I am “actively” using: 
+*last edited 17/06/23*
+## Frontend
 
-<a href="https://firatmelih.github.io/">Hello World! 🌎 </a>
+- React
+   - Next
+   - React Native
+ - Vue
+   - Vue 3 (Composition API)
+- CSS
+  - SCSS
+  - Tailwind 
 
- Frontend
+## Backend
+- Supabase
+- Prisma
+- CMS
+  - Strapi
+  - Drupal
+- SQL
+  - MySQL
+  - Postgres
+  - SQLite  
+## Other
 
-<p  float="left">
-<a  href="https://reactjs.org/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a> 
- <a  href="https://vuejs.org/"  target="_blank"><img hspace="25" height="33"  src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></a> 
-<a  href="https://sass-lang.com/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></a>
-</p>
+- TypeScript
+- GraphQL
+- Apollo
 
-Backend
+Also I am;
 
-<p float="left">
-<a  href="https://nodejs.org/en/docs/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a>
-<a  href="https://expressjs.com/"  target="_blank"><img hspace="25" height="33"  src="https://cdn.discordapp.com/attachments/750658674078253158/815450529336393739/express.png"></a>
-<a  href="https://www.mongodb.com/"  target="_blank"><img hspace="25" height="33"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
-</p>
-  </p>
+Contributing public packages to the community. <a target="_blank" href="https://www.npmjs.com/~melihfirat"> npm - melihfirat</a>
 
-<!-- <hr>
-Contact Me 
-</div>
+Writing stories on <a target="_blank" href="https://medium.com/@firatmelih">medium</a>
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Firatmelih&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2F)](https://www.linkedin.com/in/firatmelih/) -->
+Working on hobby clone projects such as;
+  -  <a target="_blank" href="https://spotify-clone-firatmelih.vercel.app/">Spotify Clone – 2023</a>
+  -  <a target="_blank" href="https://github.com/firatmelih/Netflix_M512_Client">Netflix Clone – 2021</a>
+  - Facebook Clone (coming soon)
+  - Youtube Clone (coming soon)
 
-[website]: https://firatmelih.github.io/
+Contact me via <a target="_blank" href="https://www.linkedin.com/in/firatmelih/">LinkedIn<a/>
+
+
+
