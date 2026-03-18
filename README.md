@@ -1,14 +1,71 @@
-Hi Everyone, I am Melih Here are techs I am “actively” using: 
-*last edited 04/03/26*
+## Hi, I'm Melih 
 
-- Java
-- Spring Boot
-- React Native
-- React
+**Mid Full-Stack Developer @ Forkwise**
+**B.Sc. Computer Engineering | DevOps & Scalable Systems**
 
-Also I am;
-Writing stories on <a target="_blank" href="https://medium.com/@firatmelih">medium</a>
-Contact me via <a target="_blank" href="https://www.linkedin.com/in/firatmelih/">LinkedIn<a/>
+---
 
+###  About Me
 
+* 3+ years of experience in backend development (Java & Spring ecosystem)
+* Experienced in **microservices architecture**, **distributed systems**, and **high-traffic applications**
+* Focused on building **scalable, maintainable, and testable systems**
+* Actively working with **cloud & container technologies**
+* Agile team player with CI/CD and performance optimization experience
 
+---
+
+###  Tech Stack
+
+**Backend**
+
+* Java (17/21)
+* Spring Boot & Spring Framework
+* Hibernate / JPA
+* Spring Security
+* RESTful API Design
+* Microservices Architecture
+* Apache Kafka & RabbitMQ
+
+**Frontend**
+
+* React
+* React Native
+* Next.js
+
+**DevOps & Cloud**
+
+* Docker & Kubernetes
+* AWS (EKS, ECS, EC2, S3, RDS)
+* CI/CD Pipelines
+
+**Other**
+
+* Git & Maven
+* SOLID Principles & Design Patterns
+
+---
+
+**Mid Full-Stack Developer @ Forkwise**
+*Jan 2025 – Present*
+
+---
+
+###  Content & Links
+
+* Writing on Medium: https://medium.com/@firatmelih
+* LinkedIn: https://www.linkedin.com/in/firatmelih/
+
+---
+
+###  Languages
+
+* English — C1
+* German — B1
+* Turkish — Native
+
+---
+
+### 📍 Location
+
+Aachen, Germany
