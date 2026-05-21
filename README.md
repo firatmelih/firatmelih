@@ -1,68 +1,65 @@
-## Hi, I'm Melih 
+## Hi, I'm Melih 👋
 
-**Mid Full-Stack Developer @ Forkwise**
-**B.Sc. Computer Engineering | DevOps & Scalable Systems**
-
----
-
-###  About Me
-
-* 3+ years of experience in backend development (Java & Spring ecosystem)
-* Experienced in **microservices architecture**, **distributed systems**, and **high-traffic applications**
-* Focused on building **scalable, maintainable, and testable systems**
-* Actively working with **cloud & container technologies**
-* Agile team player with CI/CD and performance optimization experience
+**Head of Data Science @ Forkwise**  
+Building predictive analytics and optimization models for industrial forklift operations, fleet efficiency, and warehouse performance.
 
 ---
 
-###  Tech Stack
+### About Me
 
-**Backend**
-
-* Java (17/21)
-* Spring Boot & Spring Framework
-* Hibernate / JPA
-* Spring Security
-* RESTful API Design
-* Microservices Architecture
-* Apache Kafka & RabbitMQ
-
-**Frontend**
-
-* React
-* React Native
-* Next.js
-
-**DevOps & Cloud**
-
-* Docker & Kubernetes
-* AWS (EKS, ECS, EC2, S3, RDS)
-* CI/CD Pipelines
-
-**Other**
-
-* Git & Maven
-* SOLID Principles & Design Patterns
+- Background in **Full-Stack Development** and **EV Electronics Engineering**
+- Working on **data-driven optimization**, **predictive modeling**, and **operational analytics**
+- Focused on improving forklift utilization, warehouse efficiency, and decision-making with data
+- Experienced with scalable backend systems, analytics pipelines, and cloud technologies
+- Passionate about industrial AI, logistics analytics, and intelligent systems
 
 ---
 
-**Mid Full-Stack Developer @ Forkwise**
+### Tech Stack
+
+#### Data Science & Analytics
+
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Data Visualization
+- Predictive Modeling
+- Statistical Analysis
+- Operations & Fleet Analytics
+
+#### Backend & Engineering
+
+- Java (17/21)
+- Spring Boot
+- REST APIs
+- Microservices Architecture
+- Apache Kafka & RabbitMQ
+
+---
+
+### Experience
+
+**Head of Data Science @ Forkwise**  
 *Jan 2025 – Present*
 
----
-
-###  Content & Links
-
-* Writing on Medium: https://medium.com/@firatmelih
-* LinkedIn: https://www.linkedin.com/in/firatmelih/
+- Developing predictive models and analytics solutions for forklift fleet operations
+- Analyzing operational efficiency, utilization, and warehouse performance metrics
+- Building data-driven optimization systems to improve productivity and resource planning
 
 ---
 
-###  Languages
+### Content & Links
 
-* English — C1
-* German — B1
-* Turkish — Native
+- Medium: https://medium.com/@firatmelih
+- LinkedIn: https://www.linkedin.com/in/firatmelih/
+
+---
+
+### Languages
+
+- English — C1
+- German — B1 *(B2 expected before 2026)*
+- Turkish — Native
 
 ---
 
