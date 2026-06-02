@@ -1,16 +1,18 @@
 ## Hi, I'm Melih 
 
-**Head of Data Science @ Forkwise**  
-Building predictive analytics and optimization models for industrial forklift operations, fleet efficiency, and warehouse performance.
+**Senior Software Engineer @ Forkwise**  
+Building predictive analytics and optimization models for industrial forklift operations, fleet efficiency, and warehouse performance. Alongside professional work, successfully developing freelance mobile applications with 10K+ downloads and several thousand euros in revenue.
+
+- melihfiratapps: https://melihfiratapps.github.io
 
 ---
 
 ### About Me
 
-- Background in **Full-Stack Development** and **EV Electronics Engineering**
+- Background in **Full-Stack Development**, **iOS & Android Mobile Apps**, **ML**
 - Working on **data-driven optimization**, **predictive modeling**, and **operational analytics**
+- Hobby projects on **React Native mobile apps**
 - Focused on improving forklift utilization, warehouse efficiency, and decision-making with data
-- Experienced with scalable backend systems, analytics pipelines, and cloud technologies
 - Passionate about industrial AI, logistics analytics, and intelligent systems
 
 ---
