@@ -47,7 +47,7 @@ Building predictive analytics and optimization models for industrial forklift op
 ### Experience
 
 **Senior Software Engineer @ Forkwise**  
-*Jan 2025 – Present*
+*Jan 2024 – Present*
 
 - Developing predictive models and analytics solutions for forklift fleet operations
 - Analyzing operational efficiency, utilization, and warehouse performance metrics
