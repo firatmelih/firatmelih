@@ -1,4 +1,4 @@
-## Hi, I'm Melih 👋
+## Hi, I'm Melih 
 
 **Head of Data Science @ Forkwise**  
 Building predictive analytics and optimization models for industrial forklift operations, fleet efficiency, and warehouse performance.
@@ -27,19 +27,19 @@ Building predictive analytics and optimization models for industrial forklift op
 - Statistical Analysis
 - Operations & Fleet Analytics
 
-#### Backend & Engineering
+#### Fullstack
 
-- Java (17/21)
-- Spring Boot
+- React
+- React Native
+- Django
+- Python
 - REST APIs
-- Microservices Architecture
-- Apache Kafka & RabbitMQ
 
 ---
 
 ### Experience
 
-**Head of Data Science @ Forkwise**  
+**Senior Software Engineer @ Forkwise**  
 *Jan 2025 – Present*
 
 - Developing predictive models and analytics solutions for forklift fleet operations
@@ -52,17 +52,18 @@ Building predictive analytics and optimization models for industrial forklift op
 
 - Medium: https://medium.com/@firatmelih
 - LinkedIn: https://www.linkedin.com/in/firatmelih/
-
+- Kaggle: https://www.kaggle.com/firatmelih
+  
 ---
 
 ### Languages
 
 - English — C1
-- German — B1 *(B2 expected before 2026)*
+- German — B2
 - Turkish — Native
 
 ---
 
-### 📍 Location
+###  Location
 
 Aachen, Germany
