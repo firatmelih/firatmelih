@@ -24,10 +24,15 @@ Building predictive analytics and optimization models for industrial forklift op
 - Python
 - Pandas & NumPy
 - Scikit-learn
+- PowerBI
+- SQL
 - Data Visualization
 - Predictive Modeling
 - Statistical Analysis
 - Operations & Fleet Analytics
+- Linear Algebra
+- Calculus I & II
+- Statistics & Probability
 
 #### Fullstack
 
