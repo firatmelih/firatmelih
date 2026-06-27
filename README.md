@@ -1,6 +1,6 @@
 ## Hi, I'm Melih 
 
-**Senior Software Engineer @ Forkwise**  
+**Software Engineer and Data Scientist @ Forkwise**  
 Building predictive analytics and optimization models for industrial forklift operations, fleet efficiency, and warehouse performance. Alongside professional work, successfully developing freelance mobile applications with 10K+ downloads and several thousand euros in revenue.
 
 - melihfiratapps: https://melihfiratapps.github.io
@@ -21,7 +21,8 @@ Building predictive analytics and optimization models for industrial forklift op
 
 #### Data Science & Analytics
 
-- Python
+- Advanced SQL
+- Python for DS/DA
 - Pandas & NumPy
 - Scikit-learn
 - PowerBI
@@ -29,7 +30,6 @@ Building predictive analytics and optimization models for industrial forklift op
 - Data Visualization
 - Predictive Modeling
 - Statistical Analysis
-- Operations & Fleet Analytics
 - Linear Algebra
 - Calculus I & II
 - Statistics & Probability
@@ -38,15 +38,14 @@ Building predictive analytics and optimization models for industrial forklift op
 
 - React
 - React Native
-- Django
-- Python
-- REST APIs
+- Nest
+- Postgres
 
 ---
 
 ### Experience
 
-**Senior Software Engineer @ Forkwise**  
+**Software Engineer and Data Scientist @ Forkwise**  
 *Jan 2024 – Present*
 
 - Developing predictive models and analytics solutions for forklift fleet operations
